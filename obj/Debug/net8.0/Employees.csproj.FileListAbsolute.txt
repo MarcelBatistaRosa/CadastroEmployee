@@ -1,0 +1,14 @@
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\bin\Debug\net8.0\Employees.exe
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\bin\Debug\net8.0\Employees.deps.json
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\bin\Debug\net8.0\Employees.runtimeconfig.json
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\bin\Debug\net8.0\Employees.dll
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\bin\Debug\net8.0\Employees.pdb
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\obj\Debug\net8.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\obj\Debug\net8.0\Employees.AssemblyInfoInputs.cache
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\obj\Debug\net8.0\Employees.AssemblyInfo.cs
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\obj\Debug\net8.0\Employees.csproj.CoreCompileInputs.cache
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\obj\Debug\net8.0\Employees.dll
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\obj\Debug\net8.0\refint\Employees.dll
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\obj\Debug\net8.0\Employees.pdb
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\obj\Debug\net8.0\Employees.genruntimeconfig.cache
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\secao6\ExercicioListas\Employees\obj\Debug\net8.0\ref\Employees.dll
